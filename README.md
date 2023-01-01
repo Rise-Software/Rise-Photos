@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74561130/206789556-b8718a15-b312-48d5-a8c1-de3e56ff54fd.png" alt='Rise Photos' />
   <div class="row" align="center">
-  <a href='https://github.com/Rise-Software/Rise-Media-Player/releases/download/v0.0.171.0/Rise.App_0.0.171.0_x86_x64_arm.msixbundle'><img src='https://user-images.githubusercontent.com/74561130/206799459-bc628e57-b7b0-4ba2-90a1-5ed7f04f79fd.png' alt='Get it from GitHub' /></a>
+  <a href='https://github.com/Rise-Software/Rise-Photos/releases/download/Alpha_0.0.1/RiseSoftware.Photos_Alpha1_0.0.1.msixbundle'><img src='https://user-images.githubusercontent.com/74561130/206799459-bc628e57-b7b0-4ba2-90a1-5ed7f04f79fd.png' alt='Get it from GitHub' /></a>
 </div>
 </p>
 
