@@ -14,8 +14,6 @@ Adjust your collection to your hearts content, adding relevant metadata, sorting
 
 And, do it all with consistency, thanks to WinUI 2.8. We have built Rise Photos with your device in mind, designing every detail so our app fits right in with your Windows installation.
 
-Rise Photos is not complete without Rise+, a new online service coming to all Rise Software apps in 2023 that allows you to sync your settings and share amongst the growing Rise Software community! We can't wait for you to try it! (Rise+ is coming in 2023 and will not be available during the Alpha stages of development).
-
 ## Credits & support this project
 Created, developed and designed by Joseph Beattie - Head of Rise Software
 
